@@ -1,4 +1,4 @@
-<h1>Olá , Bem vindo(a) ao meu repositório</h1>
+
 - 👋 Hi, I’m @thiagojaques
 - 👀 Sempre buscando novosconhecimentos...
 - 🌱 I’m cursando academia de Administração
