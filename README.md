@@ -1,8 +1,8 @@
 
 - 👋 Hi, I’m @thiagojaques
-- 👀 Sempre buscando novosconhecimentos...
-- 🌱 I’m cursando academia de Administração
-- 📫 How to reach me ..- email é  thiagohenriquedelimajaques@gmail.com
+- 👀 Sempre buscando novos conhecimentos...
+- 🌱 I’m Software Engenner 
+- 📫 How to reach me ..- email thiagohenriquedelimajaques@gmail.com
 
 <!---
 thiagojaques/thiagojaques is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
